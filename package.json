@@ -1,0 +1,14 @@
+{
+  "name": "json-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json --port 5050"
+  },
+  "author": "sairaj",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

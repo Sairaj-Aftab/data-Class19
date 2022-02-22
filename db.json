@@ -1,0 +1,66 @@
+{
+  "devs": [
+    {
+      "id": 1,
+      "name": "MD Saiful",
+      "email": "saifulcox312@gmail.com",
+      "phone": "0551330377",
+      "skillId": "1",
+      "photo": "https://lh3.googleusercontent.com/ogw/ADea4I5ZvGK4GNfnRlC0WfqhmIq7GBWai-D5JYwhsG4V=s32-c-mo"
+    },
+    {
+      "id": 2,
+      "name": "Sairaj Aftab",
+      "email": "sairajaftab6@gmail.com",
+      "phone": "01881591572",
+      "photo": "https://lh3.googleusercontent.com/ogw/ADea4I5ZvGK4GNfnRlC0WfqhmIq7GBWai-D5JYwhsG4V=s32-c-mo",
+      "skillId": "5"
+    },
+    {
+      "id": 3,
+      "name": "Sairaj Aftab",
+      "email": "sairajaftab6@gmail.com",
+      "phone": "01881591572",
+      "photo": "https://lh3.googleusercontent.com/ogw/ADea4I5ZvGK4GNfnRlC0WfqhmIq7GBWai-D5JYwhsG4V=s32-c-mo",
+      "skillId": "2"
+    },
+    {
+      "id": 4,
+      "name": "MD Saiful Islam Khan",
+      "email": "saifulcox312@gmail.com",
+      "phone": "0551330377",
+      "photo": "https://lh3.googleusercontent.com/ogw/ADea4I5ZvGK4GNfnRlC0WfqhmIq7GBWai-D5JYwhsG4V=s32-c-mo",
+      "skillId": "4"
+    },
+    {
+      "id": 5,
+      "name": "Sairaj Aftab Sabuj",
+      "email": "sairajaftab6@gmail.com",
+      "phone": "01881591572",
+      "photo": "https://lh3.googleusercontent.com/ogw/ADea4I5ZvGK4GNfnRlC0WfqhmIq7GBWai-D5JYwhsG4V=s32-c-mo",
+      "skillId": "3"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "JavaScrip"
+    },
+    {
+      "id": 2,
+      "name": "MERN"
+    },
+    {
+      "id": 3,
+      "name": "PHP"
+    },
+    {
+      "id": 4,
+      "name": "Django"
+    },
+    {
+      "id": 5,
+      "name": "Python"
+    }
+  ]
+}
